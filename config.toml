@@ -122,9 +122,9 @@ theme = "DoIt"
     #  页面头部导航栏标题配置
     [params.header.title]
       # LOGO 的 URL
-      logo = ""
+      logo = "/images/avatar.webp"
       # 标题名称
-      name = ""
+      name = "元宇宙张同学"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -191,9 +191,9 @@ theme = "DoIt"
       # 文件路径是相对于 static 或者 assets 目录的
       avatarURL = "/images/avatar.webp"
       #  主页显示的网站标题 (支持 HTML 格式)
-      title = ""
+      title = "张同学"
       # 主页显示的网站副标题
-      subtitle = "这是我的全新 Hugo 网站"
+      subtitle = "这是一个去中心化元宇宙网站"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
@@ -660,10 +660,10 @@ theme = "DoIt"
 
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
-  avatar = ""
+  name = "张同学"
+  email = "mytybcc@gmail.com"
+  link = "https://zhangxuan.eth"
+  avatar = "/images/avatar.webp"
   gravatarEmail = ""
 
 # 网站地图配置
