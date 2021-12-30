@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://zhangxuan.cn"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写
@@ -219,12 +219,12 @@ theme = "DoIt"
 
   # 作者的社交信息设置
   [params.social]
-    GitHub = "xxxx"
+    GitHub = "itey"
     Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    Twitter = "MetaversePlus"
+    Instagram = "MetaversePlus"
+    Facebook = "MetaversePlus"
+    Telegram = "zhangxuan"
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -288,7 +288,7 @@ theme = "DoIt"
     Linktree = ""
     QQ = ""
     QQGroup = ""
-    Email = "xxxx@xxxx.com"
+    Email = "mytybcc@gmail.com"
     RSS = true # 
 
   #  文章页面配置
@@ -328,7 +328,7 @@ theme = "DoIt"
     seriesNavigation = true
     #  过时文章提示
     [params.page.outdatedArticleReminder]
-      enable = true
+      enable = false
       # 如果文章最后更新于 90 天之前，显示提醒
       reminder = 90
       # 如果文章最后更新于 180 天之前，显示警告
@@ -338,7 +338,7 @@ theme = "DoIt"
       # 是否使用目录
       enable = true
       #  是否保持使用文章前面的静态目录
-      keepStatic = false
+      keepStatic = true
       # 是否使侧边目录自动折叠展开
       auto = false
     #  代码配置
