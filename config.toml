@@ -5,6 +5,7 @@ defaultContentLanguage = "zh-cn"
 languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
+relativeUrls = true
 # 网站标题
 title = "张同学的去中心化元宇宙世界"
 
