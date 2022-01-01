@@ -75,7 +75,7 @@ Markmap 支持直接将 Markdown 语法内容按照标题到内容的顺序渲�
 
 ![示例图片](6fec473615d7266e24a481c55da1a574.png)  
 
-也可直接点击查看以上示例的**[思维导图在线版](markmap.html)**，可无限放大缩小浏览查看。 
+也可直接点击查看以上示例的 [思维导图在线版](https://zhangxuan.cn/markdownmindmap/markmap.html?_blank) ，可无限放大缩小浏览查看。 
 
 ### Markmap优点
 - 轻量化、在线直接使用；
@@ -85,11 +85,11 @@ Markmap 支持直接将 Markdown 语法内容按照标题到内容的顺序渲�
   
 ### 扩展地址
 **Markmap：**  
-地址：[https://markmap.js.org/repl/)](https://pixabay.com/)  
+地址：[https://markmap.js.org/repl/)](https://markmap.js.org/repl?_blank)  
 **GitHub markmap：**  
-地址：[https://github.com/dundalek/markmap)](https://github.com/dundalek/markmap)  
+地址：[https://github.com/dundalek/markmap)](https://github.com/dundalek/markmap?_blank)  
 **GitHub markmap-lib：**  
-地址：[https://github.com/gera2ld/markmap-lib)](https://github.com/gera2ld/markmap-lib)
+地址：[https://github.com/gera2ld/markmap-lib)](https://github.com/gera2ld/markmap-lib?_blank)
 
 
 ### 总结
