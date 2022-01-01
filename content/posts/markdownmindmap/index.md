@@ -1,12 +1,12 @@
 ---
 title: "用Markdown这用这几行字符就可以生成思维导图"
-date: 2021-12-29T22:54:29+08:00
-lastmod: 2021-12-29T23:23:40+08:00
+date: 2022-01-01T10:40:27+08:00
+lastmod: 2022-01-01T10:40:27+08:00
 draft: false
 description: "这篇文章展示如何使用Markdown绘制思维导图。"
 featuredImage: "featured-image.jpg"
 
-tags: ["Markdown", "HTML"]
+tags: ["Markdown", "思维导图" "mindmap"]
 categories: ["Markdown教程"]
 ---
 
