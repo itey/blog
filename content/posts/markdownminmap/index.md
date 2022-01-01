@@ -86,7 +86,7 @@ Markmap 支持直接将 Markdown 语法内容按照标题到内容的顺序渲�
 地址：[https://markmap.js.org/repl/)](https://pixabay.com/)  
 **GitHub markmap：**  
 地址：[https://github.com/dundalek/markmap)](https://github.com/dundalek/markmap)  
-**GitHub markmap：**  
+**GitHub markmap-lib：**  
 地址：[https://github.com/gera2ld/markmap-lib)](https://github.com/gera2ld/markmap-lib)
 
 
