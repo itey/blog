@@ -4,7 +4,7 @@ date: 2021-12-29T22:54:29+08:00
 lastmod: 2021-12-29T23:23:40+08:00
 draft: false
 description: "这篇文章展示了Markdown基本语法。"
-featuredImage: "featured-image.webp"
+featuredImage: "featured-image.jpg"
 
 tags: ["Markdown", "HTML"]
 categories: ["Markdown教程"]
