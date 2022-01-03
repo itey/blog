@@ -7,7 +7,9 @@ description: "这篇文章展示了文章嵌入各种提示横幅的语法。"
 featuredImage: "featured-image.jpg"
 
 tags: ["Markdown", "HTML"]
-categories: ["Markdown教程"]
+categories: ["在线教程"]
+series: ["Markdown教程"]
+series_weight: 3
 ---
 
 在文章中嵌入包括引用、示例、注意、摘要、提醒、状态等提示性条幅显示效果。

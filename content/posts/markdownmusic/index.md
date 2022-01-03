@@ -7,7 +7,9 @@ description: "这篇文章展示了音乐和音乐列表的语法。"
 featuredImage: "featured-image.jpg"
 
 tags: ["Markdown", "music", "mp3", "QQ音乐", "网易音乐"]
-categories: ["Markdown教程"]
+categories: ["在线教程"]
+series: ["Markdown教程"]
+series_weight: 2
 ---
 
 **DoIt** 主题模板中嵌入音乐和音乐列表的语法学习。

@@ -7,7 +7,9 @@ description: "这篇文章展示了文章嵌入思维导图的语法。"
 featuredImage: "featured-image.jpg"
 
 tags: ["Markdown", "思维导图", "mindmap", "脑图"]
-categories: ["Markdown教程"]
+categories: ["在线教程"]
+series: ["Markdown教程"]
+series_weight: 6
 ---
 
 **DoIt** 主题模板中嵌入思维导图的语法学习。

@@ -7,7 +7,9 @@ description: "这篇文章展示了Markdown基本语法。"
 featuredImage: "featured-image.jpg"
 
 tags: ["Markdown", "HTML"]
-categories: ["Markdown教程"]
+categories: ["在线教程"]
+series: ["Markdown教程"]
+series_weight: 1
 ---
 
 这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例。

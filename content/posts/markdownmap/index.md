@@ -1,13 +1,15 @@
 ---
 title: "在文章中嵌入互动式地图效果"
-date: 2021-12-29T22:54:29+08:00
-lastmod: 2021-12-29T23:23:40+08:00
+date: 2021-12-31T22:54:29+08:00
+lastmod: 2021-12-31T23:23:40+08:00
 draft: false
 description: "这篇文章展示了互动式地图的语法。"
 featuredImage: "featured-image.jpg"
 
 tags: ["Markdown", "map", "地图"]
-categories: ["Markdown教程"]
+categories: ["在线教程"]
+series: ["Markdown教程"]
+series_weight: 5
 ---
 
 **DoIt** 主题模板中嵌入互动式地图的语法学习。

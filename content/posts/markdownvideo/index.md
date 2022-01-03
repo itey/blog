@@ -1,13 +1,15 @@
 ---
 title: "在文章中嵌入视频效果"
-date: 2021-12-29T22:54:29+08:00
-lastmod: 2021-12-29T23:23:40+08:00
+date: 2021-12-30T10:16:27+08:00
+lastmod: 2021-12-30T10:16:27+08:00
 draft: false
 description: "这篇文章展示了文章嵌入Youtube和Bilibili视频的语法。"
 featuredImage: "featured-image.jpg"
 
 tags: ["Markdown", "HTML", "视频", "video"]
-categories: ["Markdown教程"]
+categories: ["在线教程"]
+series: ["Markdown教程"]
+series_weight: 4
 ---
 
 **DoIt** 主题模板中嵌入Youtube和Bilibili视频的语法学习。
