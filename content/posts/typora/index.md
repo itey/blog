@@ -75,7 +75,7 @@ series_weight: 6
 
 **图床服务网址：**[https://sm.ms](https://sm.ms)
 
-在这个网站注册一个新的账号后，进入后台管理，生成一个API Token。将这个Secret Token复制下来保存好，一会在Typora配置里会用到。
+在这个网站注册一个新的账号后，进入个人的后台管理，找到左侧菜单的`API Token` ，再点击页面中间的蓝色按钮，生成一个API Token。将这个Secret Token复制下来保存好，一会在Typora配置里会用到。
 
 ![image-20220103161927660](image-20220103161927660.png)
 
@@ -91,7 +91,7 @@ series_weight: 6
 
 在**上传服务**选择：`PicGo=Core（command line `
 
-我们点开`打开配置文件`，然后将以下代码复制到这个配置文件中，注意将`token`后面`双引号内的内容`改成刚才你在sm.ms上生成的secret token。
+我们点开`打开配置文件`，或者进入配置文件的目录，目录地址一般地址是：C:\Users\用户 \ \.picgo\下，找到coinfig.json文件，用记事本打开。然后将以下代码复制到这个记事本文件中，注意将`token`后面`双引号内的内容`改成刚才你在sm.ms上生成的secret token。修改完保存即可。
 
 ```json
 {
