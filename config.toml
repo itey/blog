@@ -53,9 +53,9 @@ theme = "DoIt"
   #  DoIt 主题版本
   version = "0.2.X"
   # 网站名称
-  title = "我的全新 Hugo 网站"
+  title = "张同学的元宇宙网站"
   # 网站描述
-  description = "这是我的全新 Hugo 网站"
+  description = "张同学的元宇宙网站"
   # 网站关键词
   keywords = ["Theme", "Hugo"]
   #  网站默认主题样式 ("light", "dark", "black", "auto")
