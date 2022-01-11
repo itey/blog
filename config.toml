@@ -413,9 +413,9 @@ theme = "DoIt"
       # Disqus 评论系统设置
       [params.page.comment.disqus]
         # 
-        enable = false
+        enable = true
         # Disqus 的 shortname, 用来在文章中启用 Disqus 评论系统
-        shortname = ""
+        shortname = "metaverseplus"
       # Gitalk 评论系统设置
       [params.page.comment.gitalk]
         # 
@@ -493,7 +493,7 @@ theme = "DoIt"
         darkTheme = "github-dark"
       #  Twikoo 评论系统设置
       [params.page.comment.twikoo]
-        enable = true
+        enable = false
         envId = "https://doit-docs-comment-twikoo.vercel.app/"
         region = ""
         path = ""
