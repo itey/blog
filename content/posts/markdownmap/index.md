@@ -9,7 +9,7 @@ featuredImage: "featured-image.jpg"
 tags: ["Markdown", "map", "地图"]
 categories: ["在线教程"]
 series: ["Markdown教程"]
-series_weight: 5
+
 ---
 
 **DoIt** 主题模板中嵌入互动式地图的语法学习。
