@@ -145,7 +145,7 @@ theme = "DoIt"
   [params.footer]
     enable = true
     #  自定义内容 (支持 HTML 格式)
-    custom = '元宇宙张同学 版权所有'
+    custom = '元宇宙张同学版权所有 <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备14009107号-2</a>'
     #  是否显示 Hugo 和主题信息
     hugo = false
     #  托管服务信息 (支持 HTML 格式)
